@@ -1,4 +1,5 @@
 DAY 1:-
+
 AWS AND DEVOPS :
 
 DevOps is a practice that combines development and operations to build, test and release software faster and more reliably. 
@@ -47,3 +48,14 @@ Linux is widely used in servers and cloud environments. This section covers esse
 * NETWORKING
 
 --> PROVIDED NOTES BASED ON ABOVE DISCUSSION THEORY
+
+DEVOPS TOOLS:-
+
+* GIT & GITHUB   --> SOURCE CODE MANAGEMENT
+* JENKINS        --> CI/CD INTEGRATION FOR AUTOAMTION
+* MAVEN          --> WORKS AS ARTIFACTORY AND DEPENDECIES
+* DOCKER         --> CONTAINERZATION
+* KUBERNETES     --> ORCHESTRATION
+* TERRAFORM      --> CREATE A INFRASTURCURE IAAC
+* PROMETHEUS & GRAFANA --> MONITORING TOOLS CHECKONG SERVER DATA
+* KIBANA            ---> INSOECTING LOGS AND METRICS
